@@ -1,11 +1,22 @@
-# Jekyll 이 생성한 메타 데이터 무시
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
 
-# Bundler 가 생성한 폴더 무시
-.bundle/
-.vendor/
+# Jekyll cache
+.jekyll-cache
+_site
 
-.idea/
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode
+
+# Misc
+assets/js/dist
