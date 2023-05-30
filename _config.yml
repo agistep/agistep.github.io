@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   ddd domain driven develop test tdd oop soild
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://www.agistep.io"
 
 github:
-  username: github_username # change to your github username
+  username: agistep # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
